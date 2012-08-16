@@ -21,7 +21,8 @@ Hello Project.
 4. sent to starmomo by facebook message
 5. starmomo add SSH keys to member's ssh-key
 6. Testing(After confirm to adding SSH keys)
-   $ ssh -T git@github.com# Attempts to ssh to github
+   $ ssh -T git@github.com
+   # Attempts to ssh to github
    
    # Hi username! You've successfully authenticated, but GitHub does not
    # provide shell access
