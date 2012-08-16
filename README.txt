@@ -24,6 +24,7 @@ Hello Project.
    $ ssh -T git@github.com
    # Attempts to ssh to github
    
+   # (Success! message)
    # Hi username! You've successfully authenticated, but GitHub does not
    # provide shell access
 
