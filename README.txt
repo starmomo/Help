@@ -37,7 +37,7 @@ Hello Project.
 
 
 
-Then you may do ssh-keygen by git bash in Help(project folder).
+Then you may do ssh-keygen by git bash in Help(Hello Project folder).
 
 When you upload to Github
 First, github 'pull' and then you may use 'push' to Github.
