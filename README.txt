@@ -1,5 +1,6 @@
 Hello Project.
 
+
 [Github for colaborator]
 
 1. git bash
@@ -18,4 +19,5 @@ First, github 'pull' and then you may use 'push' to Github.
 
 Thanks Helper~!  
 
+         2012.08.16.18.50
          by starmomo.
