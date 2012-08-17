@@ -3,7 +3,17 @@ Hello Project.
 
 [Github for colaborator]
 
+1. Make Github account. Sign in at Github.(https://github.com/)
+
+2. Send signed Nickname or email_adress to Starmomo.
+
+3. starmomo add SSH keys to Collaborators by Help member.
+
+
+[Making Github SSH keys and Coding]
+
 1. git bash 
+
 2. $ ssh-keygen -t rsa -C "your_email@youremail.com"
    # Creates a new ssh key using the provided email
    # Generating public/private rsa key pair.
@@ -18,9 +28,7 @@ Hello Project.
    $ clip < ~/.ssh/id_rsa.pub
    # Copies the contents of the id_rsa.pub file to your clipboard
 
-4. sent to starmomo by facebook message
-5. starmomo add SSH keys to member's ssh-key
-6. Testing(After confirm to adding SSH keys)
+4. Testing(After confirm to adding SSH keys)
    $ ssh -T git@github.com
    # Attempts to ssh to github
    
@@ -51,5 +59,5 @@ Thanks Helper~!
 
 
 
-	         2012.08.16..20:27
+	         2012.08.17.08:58
 	         by starmomo.
