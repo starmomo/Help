@@ -1,7 +1,7 @@
 Hello Project.
 
 
-[Github for colaborator]
+[Github for collaborator]
 
 1. Make Github account. Sign in at Github.(https://github.com/)
 
